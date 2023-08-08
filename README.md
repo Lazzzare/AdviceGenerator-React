@@ -1,6 +1,6 @@
 # Screenshots
 
-  <img src="./src/assets/Readme-Image.PNG" alt="First Image" width="350" height="350"  style="margin-right: 150px;">
+  <img src="./src/assets/Readme-Image.PNG" alt="First Image">
 
 # Links
 
