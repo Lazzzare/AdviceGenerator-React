@@ -4,7 +4,7 @@
 
 # Links
 
-- Solution URL: [GitHub Code](https://github.com/Lazzzare/InteractiveRatingComponent-React-)
+- Solution URL: [GitHub Code](https://github.com/Lazzzare/AdviceGenerator-React)
 - Live Site URL: [Live Site](https://advice-generator-reacttsx.netlify.app/)
 
 # Built With
